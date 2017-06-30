@@ -1,0 +1,23 @@
+.main-name {
+    font-family: "Playfair Display";
+    color: #1D2731;
+}
+
+#smallTitle {
+    color: #ffffff; 
+}
+
+.full-avatar{
+    border-radius: 100%;
+    max-width: 225px;
+    width: 100%;
+    margin: 0 auto 4rem;
+}
+
+.white-bg {
+    background-color: #FFFFFF;
+}
+
+.ama-bg{
+    background-color: #241F20 !important;
+}
